@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-   s.name = %q{gdocs4ruby}
+   s.name = %q{jameschao-gdocs4ruby}
    s.version = "0.1.5"
    # The date here is not accurate, but it's the earliest date for this 0.1.5 version
    s.date = %q{2010-09-09}
